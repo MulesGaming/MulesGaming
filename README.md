@@ -1,8 +1,8 @@
 **Mules Gaming**
 
 ### --- Links ---  
-*My YouTube Channel*: https://mulesgaming.github.io/yt  
-*Webstie:* https://mulesgaming.github.io/  
+*My YouTube Channel*: https://mulesgaming.com/yt  
+*Webstie:* https://mulesgaming.com
 *Github(this page):* https://github.com/MulesGaming  
 
 <!---
