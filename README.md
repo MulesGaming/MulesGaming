@@ -2,7 +2,7 @@
 
 ### --- Links ---  
 *My YouTube Channel*: https://mulesgaming.com/yt  
-*Webstie:* https://mulesgaming.com
+*Webstie:* https://mulesgaming.com  
 *Github(this page):* https://github.com/MulesGaming  
 
 <!---
