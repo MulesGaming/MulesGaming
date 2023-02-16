@@ -4,10 +4,12 @@
 [![YouTube - Channel](https://img.shields.io/badge/YouTube-Channel-CC0000?logo=youtube)](https://www.mulesgaming.com/yt)
 [![YouTube - Community](https://img.shields.io/badge/YouTube-Community-CC0000?logo=youtube)](https://www.mulesgaming.com/community)
 [![Github - MulesGaming](https://img.shields.io/badge/Github-MulesGaming-383734?logo=github)](https://github.com/MulesGaming)
+[![Twitter - @mulesgaming](https://img.shields.io/badge/Twitter-%40mulesgaming-yellow?logo=twitter)](https://twitter.com/mulesgaming)
 
 ### --- Links ---  
 *My YouTube Channel*: https://mulesgaming.com/yt  
 *Webstie:* https://mulesgaming.com  
+*Twitter:* https://twitter.com/mulesgaming  
 *Github(this page):* https://github.com/MulesGaming  
 
 <!---
