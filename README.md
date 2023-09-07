@@ -9,7 +9,8 @@
 ### --- Links ---  
 *My YouTube Channel*: https://mulesgaming.com/yt  
 *Webstie:* https://mulesgaming.com  
-*Twitter:* https://twitter.com/mulesgaming  
+*Twitter:* https://twitter.com/mulesgaming   
+*Mastodon:* <a rel="me" href="https://mastodon.social/@mulesgaming">mastodon.social/@mulesgaming</a>  
 *Github(this page):* https://github.com/MulesGaming  
 
 <!---
