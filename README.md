@@ -1,4 +1,6 @@
-**Mules Gaming**
+<img src="/My Youtube Banner.png"> **Mules Gaming**
+
+-----
 
 [![Website - MulesGaming.com](https://img.shields.io/badge/Website-MulesGaming.com-2ea44f)](https://www.mulesgaming.com)
 [![YouTube - Channel](https://img.shields.io/badge/YouTube-Channel-CC0000?logo=youtube)](https://www.mulesgaming.com/yt)
