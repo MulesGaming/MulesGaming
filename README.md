@@ -7,7 +7,10 @@
 [![Twitter - @mulesgaming](https://img.shields.io/badge/Twitter-%40mulesgaming-yellow?logo=twitter)](https://www.mulesgaming.com/twt)
 
 <h1> --- Links --- </h1> 
-<div style='background-color:red'>*My YouTube Channel*: https://mulesgaming.com/yt</div>
+<div>
+  <span>*My YouTube Channel*:</span>  
+  <span>https://mulesgaming.com/yt</span>
+</div>
 <div>*Webstie:* https://mulesgaming.com</div>  
 <div>*Twitter:* https://twitter.com/mulesgaming</div>
 <div>*Mastodon:* <a rel="me" href="https://mastodon.social/@mulesgaming">mastodon.social/@mulesgaming</a></div>  
