@@ -1,5 +1,4 @@
 <img src="/My Youtube Banner.png">
------
 
 [![Website - MulesGaming.com](https://img.shields.io/badge/Website-MulesGaming.com-2ea44f)](https://www.mulesgaming.com)
 [![YouTube - Channel](https://img.shields.io/badge/YouTube-Channel-CC0000?logo=youtube)](https://www.mulesgaming.com/yt)
@@ -7,7 +6,8 @@
 [![Github - MulesGaming](https://img.shields.io/badge/Github-MulesGaming-383734?logo=github)](https://github.com/MulesGaming)
 [![Twitter - @mulesgaming](https://img.shields.io/badge/Twitter-%40mulesgaming-yellow?logo=twitter)](https://twitter.com/mulesgaming)
 
-### --- Links ---  
+<style>h1{text-align: center;}</style>
+<h1> --- Links --- </h1> 
 *My YouTube Channel*: https://mulesgaming.com/yt  
 *Webstie:* https://mulesgaming.com  
 *Twitter:* https://twitter.com/mulesgaming   
