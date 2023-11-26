@@ -8,11 +8,10 @@
 [![Twitter - @mulesgaming](https://img.shields.io/badge/Twitter-%40mulesgaming-yellow?logo=twitter)](https://twitter.com/mulesgaming)
 
 ### --- Links ---  
-*My YouTube Channel*: https://mulesgaming.com/yt  
-*Webstie:* https://mulesgaming.com  
-*Twitter:* https://twitter.com/mulesgaming   
-*Mastodon:* <a rel="me" href="https://mastodon.social/@mulesgaming">mastodon.social/@mulesgaming</a>  
-*Github(this page):* https://github.com/MulesGaming  
+<img src="/img/yt_icon_mono_dark.png">*My YouTube Channel - @mulesgamingmc*: https://mulesgaming.com/yt  
+<img src="/img/yt_icon_mono_dark.png">*Webstie - mulesgaming.com:* https://www.mulesgaming.com  
+<img src="/img/twitter_logo.png">*Twitter - @mulesgaming:* https://www.mulesgaming.com/twt   
+<img src="/img/mastodon_logo.svg">*Mastodon - @mulesgaming@mastodon.social:* https://www.mulesgaming.com/mastodon
 
 <!---
 MulesGaming/MulesGaming is a unique repository because its `README.md` (this file) appears on your GitHub profile.
