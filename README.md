@@ -7,7 +7,7 @@
 [![Twitter - @mulesgaming](https://img.shields.io/badge/Twitter-%40mulesgaming-yellow?logo=twitter)](https://www.mulesgaming.com/twt)
 
 <h1> --- Links --- </h1> 
-![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `<div>*My YouTube Channel*: https://mulesgaming.com/yt</div>`
+! [#f03c15] (https://placehold.co/15x15/f03c15/f03c15.png) `*My YouTube Channel*: https://mulesgaming.com/yt`
 <div>*Webstie:* https://mulesgaming.com</div>  
 <div>*Twitter:* https://twitter.com/mulesgaming</div>
 <div>*Mastodon:* <a rel="me" href="https://mastodon.social/@mulesgaming">mastodon.social/@mulesgaming</a></div>  
