@@ -8,9 +8,13 @@
 [![Twitter - @mulesgaming](https://img.shields.io/badge/Twitter-%40mulesgaming-yellow?logo=twitter)](https://twitter.com/mulesgaming)
 
 ### --- Links ---  
-* <a href="https://www.mulesgaming.com/yt"><img align="left" src="/img/yt_icon_mono_dark.png" width=50>*My YouTube Channel - @mulesgamingmc*: mulesgaming.com/yt</a>  
-* <a href="https://www.mulesgaming.com/"><img align="left" src="/img/yt_icon_mono_dark.png" width=50>*Webstie - mulesgaming.com:* mulesgaming.com</a>  
-* <a href="https://www.mulesgaming.com/twt"><img align="left" src="/img/twitter_logo.png" width=50>*Twitter - @mulesgaming:* mulesgaming.com/twt</a>   
+
+* <a href="https://www.mulesgaming.com/yt"><img align="left" src="/img/yt_icon_mono_dark.png" width=50>*My YouTube Channel - @mulesgamingmc*: mulesgaming.com/yt</a>
+
+* <a href="https://www.mulesgaming.com/"><img align="left" src="https://www.mulesgaming.com/media/images/mules-icon-transparent.png" width=50>*Webstie - mulesgaming.com:* mulesgaming.com</a>
+
+* <a href="https://www.mulesgaming.com/twt"><img align="left" src="/img/twitter_logo.png" width=50>*Twitter - @mulesgaming:* mulesgaming.com/twt</a>
+
 * <a href="https://www.mulesgaming.com/mastodon"><img align="left" src="/img/mastodon_logo.svg" width=50>*Mastodon - @mulesgaming@mastodon.social:* mulesgaming.com/mastodon</a>
 
 <!---
