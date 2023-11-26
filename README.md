@@ -14,7 +14,7 @@
 
 <a href="https://www.mulesgaming.com/twt"><img align="center" src="/img/twitter_logo.png" width=50> *Twitter - @mulesgaming:* mulesgaming.com/twt</a>
 
-<a href="https://www.mulesgaming.com/mastodon"><img align="center" src="/img/mastodon_logo.svg" width=50> *Mastodon - @mulesgaming@mastodon.social:* mulesgaming.com/mastodon</a>
+<a href="https://www.mulesgaming.com/mastodon"><img align="center" src="/img/mastodon_logo.svg" width=50> *Mastodon - <a href="https://www.mulesgaming.com/mastodon">@mulesgaming@mastodon.social</a>:* mulesgaming.com/mastodon</a>
 
 <!---
 MulesGaming/MulesGaming is a unique repository because its `README.md` (this file) appears on your GitHub profile.
