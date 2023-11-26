@@ -9,13 +9,13 @@
 
 ### --- Links ---  
 
-<a href="https://www.mulesgaming.com/yt"><img align="center" src="/img/yt_icon_mono_dark.png" width=50>*My YouTube Channel - @mulesgamingmc*: mulesgaming.com/yt</a>
+<a href="https://www.mulesgaming.com/yt"><img align="center" src="/img/yt_icon_mono_dark.png" width=50> *My YouTube Channel - @mulesgamingmc*: mulesgaming.com/yt</a>
 
-<a href="https://www.mulesgaming.com/"><img align="center" src="https://www.mulesgaming.com/media/images/mules-icon-transparent.png" width=50>*Webstie - mulesgaming.com:* mulesgaming.com</a>
+<a href="https://www.mulesgaming.com/"><img align="center" src="https://www.mulesgaming.com/media/images/mules-icon-transparent.png" width=50> *Webstie - mulesgaming.com:* mulesgaming.com</a>
 
-<a href="https://www.mulesgaming.com/twt"><img align="center" src="/img/twitter_logo.png" width=50>*Twitter - @mulesgaming:* mulesgaming.com/twt</a>
+<a href="https://www.mulesgaming.com/twt"><img align="center" src="/img/twitter_logo.png" width=50> *Twitter - @mulesgaming:* mulesgaming.com/twt</a>
 
-<a href="https://www.mulesgaming.com/mastodon"><img align="center" src="/img/mastodon_logo.svg" width=50>*Mastodon - @mulesgaming@mastodon.social:* mulesgaming.com/mastodon</a>
+<a href="https://www.mulesgaming.com/mastodon"><img align="center" src="/img/mastodon_logo.svg" width=50> *Mastodon - @mulesgaming@mastodon.social:* mulesgaming.com/mastodon</a>
 
 <!---
 MulesGaming/MulesGaming is a unique repository because its `README.md` (this file) appears on your GitHub profile.
