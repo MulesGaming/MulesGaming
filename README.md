@@ -1,6 +1,6 @@
 <img src="/My Youtube Banner.png">
 
-[![Website - MulesGaming.com](https://img.shields.io/badge/Website-MulesGaming.com-2ea44f)](https://www.mulesgaming.com)
+[![Website - mulesgaming.com](https://img.shields.io/badge/Website-mulesgaming.com-2ea44f)](https://www.mulesgaming.com)
 [![YouTube - Channel](https://img.shields.io/badge/YouTube-Channel-CC0000?logo=youtube)](https://www.mulesgaming.com/yt)
 [![YouTube - Community](https://img.shields.io/badge/YouTube-Community-CC0000?logo=youtube)](https://www.mulesgaming.com/community)
 [![Github - MulesGaming](https://img.shields.io/badge/Github-MulesGaming-383734?logo=github)](https://www.mulesgaming.com/github)
