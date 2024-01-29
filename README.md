@@ -8,6 +8,9 @@
 [![Mastodon - @mulesgaming@mastodon.social](https://img.shields.io/badge/Mastodon-%40mulesgaming%40mastodon.social-2ea44f?logo=mastodon)](https://www.mulesgaming.com/mastodon)
 [![BlueSky - @mulesgaming.com](https://img.shields.io/badge/BlueSky-%40mulesgaming.com-2ea44f?logo=bluesky)](https://www.mulesgaming.com/bsky)
 
+### --- Fetured Project ---
+<a href="https://github.com/mulesgaming/minecraft-wordle"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/mulesgaming/minecraft-wordle.png" width="460px"></a>
+
 ### --- Links ---  
 
 <a href="https://www.mulesgaming.com/yt"><img align="center" src="/img/yt_icon_mono_dark.png" width=50> *My YouTube Channel - @mulesgamingmc*: mulesgaming.com/yt</a>
