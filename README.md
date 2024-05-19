@@ -4,6 +4,8 @@
 [![YouTube - Channel](https://img.shields.io/badge/YouTube-Channel-CC0000?logo=youtube)](https://www.mulesgaming.com/yt)
 [![YouTube - Community](https://img.shields.io/badge/YouTube-Community-CC0000?logo=youtube)](https://www.mulesgaming.com/community)
 [![Github - MulesGaming](https://img.shields.io/badge/Github-MulesGaming-383734?logo=github)](https://www.mulesgaming.com/github)
+[![Gitlab - mulesgaming](https://img.shields.io/badge/Gitlab-mulesgaming-e24329?logo=gitlab)](https://www.mulesgaming.com/gitlab)
+[![Codeberg - mulesgaming](https://img.shields.io/badge/Codeberg-mulesgaming-171e26?logo=codeberg)](https://www.mulesgaming.com/codeberg)
 [![Twitter - @mulesgaming](https://img.shields.io/badge/Twitter-%40mulesgaming-yellow?logo=twitter)](https://www.mulesgaming.com/twt)
 [![Mastodon - @mulesgaming@mastodon.social](https://img.shields.io/badge/Mastodon-%40mulesgaming%40mastodon.social-2ea44f?logo=mastodon)](https://www.mulesgaming.com/mastodon)
 [![BlueSky - @mulesgaming.com](https://img.shields.io/badge/BlueSky-%40mulesgaming.com-2ea44f?logo=bluesky)](https://www.mulesgaming.com/bsky)
