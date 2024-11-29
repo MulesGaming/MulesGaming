@@ -8,14 +8,11 @@
 [![BlueSky - @mulesgaming.com](https://img.shields.io/badge/BlueSky-%40mulesgaming.com-2ea44f?logo=bluesky)](https://mulesgaming.com/bsky)
 [![Mastodon - @mulesgaming@mastodon.social](https://img.shields.io/badge/Mastodon-%40mulesgaming%40mastodon.social-2ea44f?logo=mastodon)](https://mulesgaming.com/mastodon)
 [![Twitter - @mulesgaming](https://img.shields.io/badge/Twitter-%40mulesgaming-yellow?logo=twitter)](https://www.mulesgaming.com/twt)
-[![YouTube - Channel](https://img.shields.io/badge/YouTube-Channel-CC0000?logo=youtube)](https://mulesgaming.com/yt)
 
 ### --- Fetured Project ---
 <a href="https://github.com/mulesgaming/minecraft-wordle"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/mulesgaming/minecraft-wordle.png" width="460px"></a>
 
 ### --- Links ---  
-
-<a href="https://www.mulesgaming.com/yt"><img align="center" src="/img/yt_icon_mono_dark.png" width=50> *My YouTube Channel - @mulesgamingmc*: mulesgaming.com/yt</a>
 
 <a href="https://www.mulesgaming.com/"><img align="center" src="https://www.mulesgaming.com/media/images/mules-icon-transparent.png" width=50> *Webstie - mulesgaming.com:* mulesgaming.com</a>
 
