@@ -8,7 +8,6 @@
 [![BlueSky - @mulesgaming.com](https://img.shields.io/badge/BlueSky-%40mulesgaming.com-2ea44f?logo=bluesky)](https://mulesgaming.com/bsky)
 [![Mastodon - @mulesgaming@mastodon.social](https://img.shields.io/badge/Mastodon-%40mulesgaming%40mastodon.social-2ea44f?logo=mastodon)](https://mulesgaming.com/mastodon)
 [![Twitter - @mulesgaming](https://img.shields.io/badge/Twitter-%40mulesgaming-yellow?logo=twitter)](https://www.mulesgaming.com/twt)
-[![YouTube - Channel](https://img.shields.io/badge/YouTube-Channel-CC0000?logo=youtube)](https://mulesgaming.com/yt)
 
 ### --- Links ---  
 
